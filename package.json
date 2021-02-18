@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "author": "linzhenbin",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.7.1",
+    "vuepress-theme-reco": "1.6.1"
+  },
+  "description": "记录前端学习的个人博客"
+}
